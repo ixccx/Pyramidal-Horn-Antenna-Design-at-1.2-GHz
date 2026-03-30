@@ -1,2 +1,17 @@
-# Pyramidal-Horn-Antenna-Design-at-1.2-GHz
-Pyramidal Horn Antenna Design and Analysis | KAU | 2025  Designed and simulated a pyramidal horn antenna at 1.2 GHz using CST Studio Suite Analyzed effect of aperture size on gain: Small (11.5 dBi) → Medium (13.2 dBi) → Large (15.4 dBi) Verified S11 between −20 to −30 dB across all configurations Tools: CST Studio Suite
+# Pyramidal Horn Antenna Design at 1.2 GHz
+
+**King Abdulaziz University | EE424 | 2025**
+
+## Overview
+Designed and simulated a pyramidal horn antenna studying 
+the effect of aperture size on gain and directivity at 1.2 GHz.
+
+## Results
+| Aperture Size | Gain | Beamwidth |
+|---|---|---|
+| Small (0.5×0.25m) | 11.5 dBi | 50.4° |
+| Medium (0.75×0.375m) | 13.2 dBi | 34.5° |
+| Large (1×0.5m) | 15.4 dBi | 26.1° |
+
+## Tools
+- CST Studio Suite
